@@ -14,7 +14,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -37,7 +36,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/alvadaza/TODOS_LIST.git",
+  "homepage": "file:///C:/Users/luda7/Desktop/develope/mi-todos/build/",
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
