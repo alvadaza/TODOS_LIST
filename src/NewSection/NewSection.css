@@ -1,0 +1,14 @@
+.new-section {
+  float: left; /* Hace que la sección NewSection se ubique a la derecha */
+  }
+
+  .new-section img {
+    width: 60%;
+    margin: auto 50px;
+}
+
+@media (max-width: 640px) {
+  .new-section {
+    display: none;
+  }
+}
