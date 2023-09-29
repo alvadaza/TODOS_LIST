@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/C:/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/css/main.1fac4e71.css",
-    "main.js": "/C:/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/js/main.bb6689da.js",
-    "index.html": "/C:/Users/luda7/Desktop/develope/mi-todos/build/index.html/index.html",
-    "static/media/delete.svg": "/C:/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/C:/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.1fac4e71.css.map": "/C:/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/css/main.1fac4e71.css.map",
-    "main.bb6689da.js.map": "/C:/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/js/main.bb6689da.js.map"
+    "main.css": "/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/css/main.1fac4e71.css",
+    "main.js": "/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/js/main.e443250d.js",
+    "index.html": "/Users/luda7/Desktop/develope/mi-todos/build/index.html/index.html",
+    "static/media/delete.svg": "/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.1fac4e71.css.map": "/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/css/main.1fac4e71.css.map",
+    "main.e443250d.js.map": "/Users/luda7/Desktop/develope/mi-todos/build/index.html/static/js/main.e443250d.js.map"
   },
   "entrypoints": [
     "static/css/main.1fac4e71.css",
-    "static/js/main.bb6689da.js"
+    "static/js/main.e443250d.js"
   ]
 }
